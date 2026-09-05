@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech;Welcome+to+my+Profile!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A1anish&label=Profile%20Views&color=8a2be2&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/A1anish?label=Followers&style=social" alt="followers" />
-</p>
 
 ---
 
