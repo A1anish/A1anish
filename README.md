@@ -57,11 +57,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A1anish&theme=radical&hide_border=true" alt="streak stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A1anish&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
